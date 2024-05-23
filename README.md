@@ -19,10 +19,10 @@ Este projeto é um cardápio online desenvolvido para uma hamburgueria, permitin
 
 ### Tecnologias Utilizadas:
 
-- **Frontend:** HTML, CSS, Javascript e Typescript
-- **Backend:** Java
-- **Frameworks**: SpringBoot
-- **Banco de Dados:** PostgreSQL
+- **Frontend:** HTML, CSS, Javascript e Typescript.
+- **Backend:** Java.
+- **Frameworks**: SpringBoot.
+- **Banco de Dados:** PostgreSQL.
 
 ### Como Usar:
 
